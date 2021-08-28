@@ -24,6 +24,8 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack-pwa-manifest": "^4.3.0"
+  },
   "keywords": []
 }
